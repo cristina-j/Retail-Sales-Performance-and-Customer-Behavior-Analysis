@@ -74,7 +74,3 @@ Based on the analysis:
 - THe business should target marketing efforts toward core revenue-driving age groups so they are more prone to continue purchasing their products.
 
 ---
-
-## Insight At a Glance
-<img width="2000" height="1200" alt="Sales   Profits Trend Over Time" src="https://github.com/user-attachments/assets/3ede9d5d-5ba4-4c6b-b570-d802341270d1" />
-
