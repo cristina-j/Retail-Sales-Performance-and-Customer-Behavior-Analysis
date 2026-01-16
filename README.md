@@ -76,5 +76,5 @@ Based on the analysis:
 ---
 
 ## Insight At a Glance
-<img width="2038" height="1200" alt="Sales   Profits Trend Over Time" src="https://github.com/user-attachments/assets/3ede9d5d-5ba4-4c6b-b570-d802341270d1" />
+<img width="2000" height="1200" alt="Sales   Profits Trend Over Time" src="https://github.com/user-attachments/assets/3ede9d5d-5ba4-4c6b-b570-d802341270d1" />
 
