@@ -60,9 +60,9 @@ Key design decisions:
 - Revenue distribution across genders remained relatively balanced
 
 ### Data Considerations
-- The dataset contains incomplete records for the final five months of 2014 and 2016
-- No data was imputed; all insights are based on available records only
-- External economic context was reviewed to support interpretation, not to explain missing data
+- The dataset contains incomplete records for the final five months of 2014 and 2016.
+- No data was attributed; all insights are based on available records only.
+- External economic context was reviewed to support interpretation, not to explain missing data.
 
 ---
 
@@ -74,3 +74,7 @@ Based on the analysis:
 - THe business should target marketing efforts toward core revenue-driving age groups so they are more prone to continue purchasing their products.
 
 ---
+
+## Insight At a Glance
+<img width="2038" height="1200" alt="Sales   Profits Trend Over Time" src="https://github.com/user-attachments/assets/3ede9d5d-5ba4-4c6b-b570-d802341270d1" />
+
