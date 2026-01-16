@@ -74,4 +74,4 @@ Based on the analysis:
 - THe business should target marketing efforts toward core revenue-driving age groups so they are more prone to continue purchasing their products.
 
 ---
-Link to Tableau Public dashboard
+[https://public.tableau.com/app/profile/cristina.john7002/viz/SalesandCustomerPerformanceDashboard_17685950604900/CustomerDashboard2](Sales and Customer Performance Analysis)
