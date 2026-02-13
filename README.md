@@ -71,7 +71,7 @@ Based on the analysis:
 
 - The business should focus growth strategies on increasing order value, as customers are spending more per purchase
 - The business should prioritize high-performing product subcategories that consistently drive revenue and profit such as the Mountain bikes.
-- THe business should target marketing efforts toward core revenue-driving age groups so they are more prone to continue purchasing their products.
+- The business should target marketing efforts toward core revenue-driving age groups so they are more prone to continue purchasing their products.
 
 ---
 ## Link to Tableau Public Dashboard
