@@ -25,22 +25,6 @@ Key Findings:
 
 Revenue growth was driven primarily by larger transactional size rather than increase customer frequency.
 
-
-
-
-## Results & Key Insights
-
-### Sales Performance
-- Revenue and profit increased significantly in 2015 despite a decline in total order volume
-- Profit growth closely followed revenue growth, suggesting healthy margins
-- Revenue gains were concentrated in a small number of high-performing product subcategories
-
-### Customer Behavior
-- Total orders declined year-over-year, but Average Order Value (AOV) increased sharply
-- Revenue growth was driven by higher-value purchases, not increased order frequency
-- Adult and young adult age groups contributed the largest share of revenue
-- Revenue distribution across genders remained relatively balanced
-
 ---
 
 ## Business Recommendations
@@ -62,6 +46,8 @@ Based on the analysis:
 ---
 
 ## Tableau Dashboard Preview
+
+
 
 ## Link to Tableau Public Dashboard
 [Sales and Customer Performance Analysis](https://public.tableau.com/app/profile/cristina.john7002/viz/SalesandCustomerPerformanceDashboard_17685950604900/CustomerDashboard2)
