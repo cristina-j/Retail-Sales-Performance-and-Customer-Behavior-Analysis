@@ -1,10 +1,15 @@
-# Sales & Customer Performance Dashboard Analysis
+# Retail Sales Performance & Customer Behavior Analysis
 
 ## Overview
-This project analyzes sales performance and customer purchasing behavior for a fictional retail business using transactional sales data from 2011–2016. The analysis is 
-presented through an interactive Tableau dashboard.
+This project analyzes retail sales transactions between 2011 and 2016 to evaluate revenue performance, profit trends, and customer purchasing behavior.
 
-**Note**: Due to limitations in the dataset, customer analysis is performed at the order level rather than the individual customer level.
+The objective was to determine whether revenue growth was driven by increased order volume or higher-value purchases, and how product concentration and demographic contribution influenced overall business performance.
+
+The analysis is structured into two phases:
+
+Sales Performance Analysis
+
+Customer Purchasing Behavior Analysis
 
 ---
 
