@@ -10,10 +10,10 @@ The objective was to determine whether revenue growth was driven by increased or
 ## Business Problem
 The business wants to better understand:
 
-- How revenue and profit have performed year-over-year
-- What is driving revenue and profit growth
-- Which products categories drive financial performance 
-- How customer purchasing behavior differs across demographic factors
+- How has revenue and profit performed year-over-year?
+- What is driving revenue and profit growth?
+- Which products categories drive financial performance? 
+- How does customer purchasing behavior differs across demographic factors?
 
 ---
 
