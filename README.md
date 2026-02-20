@@ -52,4 +52,5 @@ Based on the analysis:
 ---
 
 ## Link to Tableau Public Dashboard
-[Retail Sales Performance & Customer Behavior Analysis](https://public.tableau.com/app/profile/cristina.john7002/viz/SalesandCustomerPerformanceDashboard_17685950604900/CustomerDashboard2)
+[Retail Sales Performance & Customer Behavior Analysis]
+(https://public.tableau.com/views/RetailSalesPerformanceCustomerBehaviorAnalysis/SalesDashboardofficial?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
