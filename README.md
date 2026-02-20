@@ -46,9 +46,10 @@ Based on the analysis:
 ---
 
 ## Tableau Dashboard Preview
-<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/f550f65e-8fbe-424a-8cb9-9112202aef02" /> <img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/f96e5c3d-e900-480b-bf50-ba488464a120" />
+<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/812aea6c-4465-46d5-9beb-7f86cbb270f4" />
+<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/a796ac96-e347-4fde-875c-ab72987b0f97" />
 
-
+---
 
 ## Link to Tableau Public Dashboard
-[Sales and Customer Performance Analysis](https://public.tableau.com/app/profile/cristina.john7002/viz/SalesandCustomerPerformanceDashboard_17685950604900/CustomerDashboard2)
+[Retail Sales Performance & Customer Behavior Analysis](https://public.tableau.com/app/profile/cristina.john7002/viz/SalesandCustomerPerformanceDashboard_17685950604900/CustomerDashboard2)
