@@ -47,7 +47,8 @@ Based on the analysis:
 
 ## Tableau Dashboard Preview
 <img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/526a2f61-6d11-468e-b2bf-24fb2597e5f9" />
-<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/7aac0985-5b08-41f7-9c09-858fd6d4f90b" />
+<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/1f68664b-53d3-431c-8dff-aab913138f47" />
+
 
 
 
